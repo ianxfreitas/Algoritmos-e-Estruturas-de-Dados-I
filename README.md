@@ -1,1 +1,2 @@
-arq e orgs
+Bem-vindo ao meu repositório para a disciplina de Algoritmos e Estruturas de Dados I! Este espaço é dedicado a documentar meu aprendizado 
+compartilhar códigos e resolver problemas relacionados aos tópicos fundamentais da ciência da computação.
